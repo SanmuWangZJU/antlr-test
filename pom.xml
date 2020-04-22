@@ -41,6 +41,7 @@
         <curator.version>4.2.0</curator.version>
         <failsafe.version>2.3.1</failsafe.version>
         <!--        <checkstyle.suppressions.location>checkstyle-suppressions.xml</checkstyle.suppressions.location>-->
+
         <checkstyle.consoleOutput>true</checkstyle.consoleOutput>
         <checkstyle.maxAllowedViolations>10</checkstyle.maxAllowedViolations>
         <checkstyle.failOnViolation>true</checkstyle.failOnViolation>
